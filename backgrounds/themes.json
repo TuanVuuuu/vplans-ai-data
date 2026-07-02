@@ -1,0 +1,167 @@
+{
+  "version": "2026-07-02T00:00:00.000Z",
+  "themes": [
+    {
+      "id": "castle_in_the_clouds",
+      "name": "Castle in the clouds",
+      "calendarCategory": "dreamy",
+      "calendarCategoryDisplay": "Dreamy",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_castle_in_the_clouds.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_castle_in_the_clouds.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_castle_in_the_clouds.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    },
+    {
+      "id": "cozy_corner_bliss",
+      "name": "Cozy corner bliss",
+      "calendarCategory": "chill",
+      "calendarCategoryDisplay": "Chill",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_cozy_corner_bliss.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_cozy_corner_bliss.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_cozy_corner_bliss.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    },
+    {
+      "id": "endless_horizon_express",
+      "name": "Endless horizon express",
+      "calendarCategory": "travel",
+      "calendarCategoryDisplay": "Travel",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_endless_horizon_express.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_endless_horizon_express.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_endless_horizon_express.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    },
+    {
+      "id": "lazy_summer_meadow",
+      "name": "Lazy summer meadow",
+      "calendarCategory": "nature",
+      "calendarCategoryDisplay": "Nature",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_lazy_summer_meadow.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_lazy_summer_meadow.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_lazy_summer_meadow.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    },
+    {
+      "id": "midnight_blue_serenity",
+      "name": "Midnight blue serenity",
+      "calendarCategory": "night",
+      "calendarCategoryDisplay": "Night",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_midnight_blue_serenity.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_midnight_blue_serenity.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_midnight_blue_serenity.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    },
+    {
+      "id": "morning_track_glow",
+      "name": "Morning track glow",
+      "calendarCategory": "travel",
+      "calendarCategoryDisplay": "Travel",
+      "calendarMonthlyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_morning_track_glow.png?raw=true",
+        "monthTitleColor": 4294967295,
+        "dayOfWeekColor": 4294967295,
+        "dayNumberColor": 4294967295,
+        "dayLunarNumberColor": 4294967295,
+        "isStatusDark": false
+      },
+      "calendarWeeklyView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_morning_track_glow.png?raw=true",
+        "weekTitleColor": 4294967295,
+        "dayLabelColor": 4294967295,
+        "timelineHourColor": 4294967295,
+        "eventTitleColor": 4294967295,
+        "eventTimeColor": 4294967295
+      },
+      "homeView": {
+        "imgAsset": "https://github.com/TuanVuuuu/vplans-ai-data/blob/main/backgrounds/img_morning_track_glow.png?raw=true",
+        "headerText": 4294967295,
+        "isStatusDark": false
+      }
+    }
+  ]
+}
